@@ -13,11 +13,17 @@ Visualize distribution and correlations among features
 
 Train and evaluate multiple ML models:
 
+Decision Tree
+
+AdaBoost
+
+KNN
+
+LightGBMC
+
 XGBoost
 
 CatBoost
-
-TensorFlow DNN
 
 Compare model performance using metrics like RMSE, MAE, R²
 
